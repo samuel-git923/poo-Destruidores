@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\bin\Debug\pooDestruidores.exe.config
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\bin\Debug\pooDestruidores.exe
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\bin\Debug\pooDestruidores.pdb
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\obj\Debug\pooDestruidores.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\obj\Debug\pooDestruidores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\obj\Debug\pooDestruidores.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\obj\Debug\pooDestruidores.exe
+C:\Users\Caetano\source\repos\pooDestruidores\pooDestruidores\obj\Debug\pooDestruidores.pdb
